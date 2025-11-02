@@ -65,8 +65,8 @@ Successfully tracked 6 satellites: PRN 1, 7, 8, 11, 28, 30
 - GNSS-SDR: https://sourceforge.net/projects/gnss-sdr/files/data/
 
 Recommended files:
-- `SiGe_Bands-L1.dat` (16 MB)
-- `HackRF_Bands-L1.int8` (10 MB)
+- `SiGe_Bands-L1.dat` 
+- `HackRF_Bands-L1.int8` 
 
 **Note:** Data files not included in repo (too large for GitHub)
 
